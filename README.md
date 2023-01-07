@@ -6,6 +6,6 @@ It is an Simple project based on real world game called The Simon game.One must 
 
 
 
-#Synapse
+# Synapse
 ![Ashish](https://user-images.githubusercontent.com/116710038/211131722-f9b2b72c-d8e1-4dbc-8ea9-3ed47c457c70.png)
 ~pn(It is actually my first open source contribution)
